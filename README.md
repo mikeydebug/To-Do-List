@@ -19,7 +19,9 @@ A clean, responsive, and user-friendly **To-Do List Web Application** built usin
 
 📁 TO-DO-LIST
 ├── index.html        → Structure of the app
+
 ├── style.css         → Styling and layout
+
 └── script.js         → Functionality and logic
 
 ---
